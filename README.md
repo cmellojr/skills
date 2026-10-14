@@ -17,6 +17,7 @@ npx skills add cmellojr/skills -y
 | Skill | Description |
 |---|---|
 | [`gcp-free-tier`](gcp-free-tier/SKILL.md) | Keep a Google Cloud project strictly within the Free Tier: live resource audits, pre-deploy vetting, and billing budget guardrails. |
+| [`upstream-sync`](upstream-sync/SKILL.md) | Keep a fork aligned with its upstream repository: detect new commits, preview conflicts, and merge by the target repository's own resolution policies. |
 
 ## License
 
